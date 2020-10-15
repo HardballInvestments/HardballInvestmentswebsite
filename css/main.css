@@ -1,0 +1,34 @@
+.main-header {
+    background: url(../img/adrain6.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 770px;
+    color: #ffffff;
+}
+
+#nav-mobile {
+    padding-top: 22px;
+}
+
+.main-header .banner {
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+.main-header #first-text {
+    padding-top: 15px;
+}
+
+.main-header #all-btext {
+    font-size: 17px !important;
+    font-weight: 600 !important;
+}
+
+.end #all-btext {
+    font-size: 17px !important;
+    font-weight: 600 !important;
+}
+
+.main-header #first-buttom {
+    padding-top: 30px;
+}
